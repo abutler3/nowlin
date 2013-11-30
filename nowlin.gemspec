@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.version     = '0.1.0'
   s.authors     = ['Drew Butler']
   s.email       = ['andrew@drewwork.com']
-  s.homepage    = 'https://github.com/pat/tag_echidna'
+  s.homepage    = 'https://github.com/abutler3/nowlin'
   s.summary     = 'Simple Tagging'
   s.description = 'Nowlin creates simple tags for your Rails app.'
 
